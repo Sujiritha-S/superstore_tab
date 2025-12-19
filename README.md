@@ -34,13 +34,6 @@ The Super Store Sales Dashboard is an interactive Tableau visualization designed
 - Running Total of Sales using Table Calculation
 - Segment-level aggregation by Region using COUNTD
 
-## Key Insights / Observations
-- Chairs, Phones, and Storage sub-categories contribute the most to overall sales.
-- Return Rate is relatively low at 2.8%, with a few products returned more frequently.
-- Western region shows higher order concentration for Consumer segment.
-- Order volumes and profits increase significantly over the years, especially post-2023.
-- Strong seasonality visible in the monthly order trends.
-
 ## Future Enhancements
 - Add Year-over-Year (YoY) comparison metrics for sales and orders
 - Introduce dynamic parameter-based KPIs for deeper interactivity
