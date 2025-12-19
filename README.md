@@ -1,7 +1,6 @@
 # Super Store Sales Dashboard 
 
-## Project Overview
-The Super Store Sales Dashboard is an interactive Tableau visualization designed to analyze sales performance across product categories, regions, and customer segments in the U.S. and Canada. It provides a comprehensive view of key metrics like total orders, profit, and return rate, enabling users to monitor trends, identify high-performing areas, and uncover improvement opportunities within the business.
+An interactive Tableau dashboard analyzing sales, profit, orders, and returns across categories, regions, and customer segments using a Superstore dataset.
 
 ## Dashboard Preview
 <img width="1787" height="883" alt="dashbaord-preview" src="https://github.com/user-attachments/assets/250998c8-c7b7-4ad9-a036-574e0c100d5c" />
